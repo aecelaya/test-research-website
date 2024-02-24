@@ -36,13 +36,13 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Computational and Applied Mathematics
+    - course: Ph.D., Computational and Applied Mathematics
       institution: Rice University
       year: 2025 (expected)
-    - course: MA in Computational and Applied Mathematics
+    - course: MA, Computational and Applied Mathematics
       institution: Rice University
       year: 2023
-    - course: BA in Computational and Applied Mathematics
+    - course: BA, Computational and Applied Mathematics
       institution: Rice University
       year: 2016
 
