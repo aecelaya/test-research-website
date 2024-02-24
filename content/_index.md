@@ -115,7 +115,7 @@ sections:
       title: Contact
       subtitle:
       # Contact (add or remove contact options as necessary)
-      email: aecelaya@rice.edu, aecelaya@mdanderson.org
+      email: aecelaya@rice.edu
       contact_links:
         - icon: linkedin
           icon_pack: fab
@@ -125,7 +125,7 @@ sections:
         city: Houston
         region: TX
       # Automatically link email and phone or display as text?
-      autolink: False
+      autolink: true
     design:
       columns: '2'
 ---

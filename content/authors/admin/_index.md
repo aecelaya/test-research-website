@@ -30,10 +30,10 @@ bio: My research interests lie at the intersection of deep learninig, classical 
 # Interests to show in About widget
 interests:
   - Deep learning
-  - Scietific machine learning
+  - Scientific machine learning
   - Numerical PDEs
-  - Inverse Problems
-  - Medical Imaging
+  - Inverse problems
+  - Medical imaging
 
 # Education to show in About widget
 education:
