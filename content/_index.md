@@ -121,9 +121,10 @@ sections:
           icon_pack: fab
           name: Message me on LinkedIn
           link: 'https://www.linkedin.com/in/aecelaya/'
-      address:
-        city: Houston
-        region: TX
+        - icon: map-marker
+          icon_pack: fab
+          name: Rice University, Houston, TX
+          link: "https://www.google.com/maps/place/Rice+University/@29.718861,-95.402531,15z/data=!4m6!3m5!1s0x8640c064b7f18e1f:0xe2cd9cf065c43eb5!8m2!3d29.7173941!4d-95.4018312!16zL20vMDZmcTI?entry=ttu"
       # Automatically link email and phone or display as text?
       autolink: true
     design:
